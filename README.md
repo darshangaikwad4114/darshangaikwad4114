@@ -1,6 +1,8 @@
+[![MasterHead](https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Profile%20Banner.png)](https://darshangaikwad-portfolio.netlify.app)
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
 <h3 align="center">A passionate about Full Stack Web Developer</h3>
-
+<!-- gif image -->
+<img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Profile%20views&color=0e75b6&style=flat" alt="darshangaikwad4114" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darshan4811421" target="blank"><img src="https://img.shields.io/twitter/follow/darshan4811421?logo=twitter&style=for-the-badge" alt="darshan4811421" /></a> </p>
@@ -23,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/akashpatil18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-gaikwad" height="30" width="40" /></a>
 <a href="https://twitter.com/darshan4811421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan4811421" height="30" width="40" /></a>
 <a href="https://instagram.com/_darshan.4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darshan4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshan4114" height="30" width="40" /></a>
