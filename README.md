@@ -3,7 +3,7 @@
 <h3 align="center">A passionate about Full Stack Web Developement</h3>
 <!-- gif image -->
 <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Profile%20views&color=0e75b6&style=flat" alt="darshangaikwad4114" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=0e75b6&style=flat" alt="darshangaikwad4114" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darshan4811421" target="blank"><img src="https://img.shields.io/twitter/follow/darshan4811421?logo=twitter&style=for-the-badge" alt="darshan4811421" /></a> </p>
 
