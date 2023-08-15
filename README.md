@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" alt="darshangaikwad4114" /> </p>
 
 # 💫 About Me:
+[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://katherineoelsner.com/)<br><br>
 🔭 I’m currently working on MERN Stack Projects<br><br>🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on Full Stack Web Devlopment<br><br>🤝 I’m looking for help with Web Devlopment<br><br>👨‍💻 All of my projects are available at https://github.com/darshangaikwad4114<br><br>💬 Ask me about Javascript ReactJS<br><br>📫 How to reach me darshangaikwad4114@gmail.com<br><br>⚡ Fun fact Chai tastes way better than Coffee...
 
 
