@@ -93,9 +93,9 @@
 </a>
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=darshangaikwad4114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=darshangaikwad4114&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ## 💰 You can help me by Donating
 
