@@ -1,5 +1,4 @@
 <!-- Profile banner -->
-
 [![MasterHead](https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Profile%20Banner.png)](https://darshangaikwad-portfolio.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad : )</h1>
@@ -16,8 +15,14 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://katherineoelsner.com/) <br>
 
 <!-- About Me -->
-
-🔭 I’m currently working on MERN Stack Projects<br><br>🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on Full Stack Web Devlopment<br><br>🤝 I’m looking for help with Web Devlopment<br><br>👨‍💻 All of my projects are available at https://github.com/darshangaikwad4114<br><br>💬 Ask me about Javascript ReactJS<br><br>📫 How to reach me darshangaikwad4114@gmail.com<br><br>⚡ Fun fact Chai tastes way better than Coffee...
+🔭 I’m currently working on MERN Stack Projects<br><br>
+🌱 I’m currently learning MERN Stack<br><br>
+👯 I’m looking to collaborate on Full Stack Web Devlopment<br><br>
+🤝 I’m looking for help with Web Devlopment<br><br>
+👨‍💻 All of my projects are available at https://github.com/darshangaikwad4114<br><br>
+💬 Ask me about Javascript ReactJS<br><br>
+📫 How to reach me darshangaikwad4114@gmail.com<br><br>
+⚡ Fun fact Chai tastes way better than Coffee...
 
 ## 🌐 Socials:
 
