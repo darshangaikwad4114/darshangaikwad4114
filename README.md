@@ -1,5 +1,5 @@
 <!-- Profile banner -->
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQF1ZNGxCDGsQw/profile-displaybackgroundimage-shrink_350_1400/0/1691340000775?e=1698883200&v=beta&t=77OArcAZzIRz09bZJ4qCnd514S-gfZy1pArk_DqsA2I)](https://darshangaikwad-portfolio.netlify.app/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad : )</h1>
 <h3 align="center">A Passionate About Full Stack Web Developement</h3>
