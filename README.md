@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://katherineoelsner.com/) <br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- About Me -->
 🔭 I’m currently working on MERN Stack Projects<br><br>
