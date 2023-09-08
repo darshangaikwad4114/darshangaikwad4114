@@ -16,13 +16,13 @@
 
 <!-- About Me -->
 
-🔭 I’m currently working on MERN Stack Projects
-🌱 I’m currently learning MERN Stack
-👯 I’m looking to collaborate on Full Stack Web Development
-🤝 I’m looking for help with Web development
-👨‍💻 All of my projects are available at https://github.com/darshangaikwad4114
-💬 Ask me about Javascript ReactJS
-📫 How to reach me darshangaikwad4114@gmail.com
+🔭 I’m currently working on MERN Stack Projects<br>
+🌱 I’m currently learning MERN Stack<br>
+👯 I’m looking to collaborate on Full Stack Web Development<br>
+🤝 I’m looking for help with Web development<br>
+👨‍💻 All of my projects are available at https://github.com/darshangaikwad4114<br>
+💬 Ask me about Javascript ReactJS<br>
+📫 How to reach me darshangaikwad4114@gmail.com<br>
 ⚡ Fun fact Chai tastes way better than Coffee...
 
 ## 🌐 Socials:
