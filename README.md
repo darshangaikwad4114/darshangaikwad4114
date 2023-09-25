@@ -22,7 +22,7 @@
 <!-- About Me -->
 <div align="left">
 # 💫 About Me:
-
+<br>
 🔭 I’m currently working on **MERN Stack Applicaton**<br><br>
 🌱 I’m currently learning **Mongo DB, ExpressJs**<br><br>
 👯 I’m looking to collaborate on **Full Stack Web Development**<br><br>
