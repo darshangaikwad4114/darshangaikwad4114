@@ -16,13 +16,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" alt="darshangaikwad4114" /> </p>
 <h3 align="center">A Passionate About Full Stack Web Developement</h3>
 
-<!-- gif image  -->
-<img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif">
+<!-- gif image -->
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif"> -->
 
 <!-- About Me -->
-<div align="left">
+
 # 💫 About Me:
-<br>
+
 🔭 I’m currently working on **MERN Stack Applicaton**<br><br>
 🌱 I’m currently learning **Mongo DB, ExpressJs**<br><br>
 👯 I’m looking to collaborate on **Full Stack Web Development**<br><br>
@@ -31,7 +31,6 @@
 📫 How to reach me **darshangaikwad4114@gmail.com**<br><br>
 ⚡ Fun fact **Chai tastes way better than Coffee**
 
-</div>
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_4114_)
@@ -48,32 +47,23 @@
 
 </div>
 
+# 📊 GitHub Stats:
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<a href="https://github.com/darshangaikwad4114/">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=darshangaikwad4114&&theme=github-dark-blue&background=130F40&text=D3D3D3&ring=7A7ADB&sideNums=FFFFFF" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
+</a>
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=darshangaikwad4114&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-darshangaikwad4114.vercel.app/api?username=darshangaikwad4114&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-darshangaikwad4114.vercel.app/api/top-langs/?username=darshangaikwad4114&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
 <hr>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+Linkdin+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+Linkdin+🤝!;I'm+always+down+to+collab+:)">
 </h3>
 
 <!-- ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18) -->
+
 </div>
