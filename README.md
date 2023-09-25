@@ -1,10 +1,10 @@
 <div align="center">
-<!-- Profile banner -->
 
+<!-- Profile banner -->
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Developer !;+Hi👋,+I'm+Darshan !;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Developer!;+Hi👋,+I'm+Darshan!;" />
 </h1>
 
 <!-- Portfolio -->
