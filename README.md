@@ -30,6 +30,7 @@
 📫 How to reach me **darshangaikwad4114@gmail.com**<br><br>
 ⚡ Fun fact **Chai tastes way better than Coffee**
 
+<!-- Social profile links -->
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_4114_)
@@ -40,6 +41,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <!-- -->
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=16" /><br>
