@@ -44,7 +44,7 @@
 
 <div align="center">
     <!-- -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=9" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" /><br>
 
 </div>
 
