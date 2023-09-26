@@ -6,13 +6,17 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
 
+<!-- <h3 align="center">A Passionate About Full Stack Web Developement</h3> -->
 <!-- Portfolio -->
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://darshangaikwad-portfolio.netlify.app/) <br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- Visitors Count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" alt="darshangaikwad4114" /> </p>
-<h3 align="center">A Passionate About Full Stack Web Developement</h3>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
+</h3>
 
 <!-- gif image -->
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif"> -->
@@ -43,8 +47,7 @@
 
 <div align="center">
     <!-- -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" /><br>
-
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" />
 </div>
 
 # 📊 GitHub Stats:
@@ -58,12 +61,8 @@
 </div>
 <hr>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+Linkdin+🤝!;I'm+always+down+to+collab+:)">
-</h3>
+## 💰 You can help me by Donating
 
-<!-- ## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18)
 
 </div>
