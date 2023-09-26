@@ -23,7 +23,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **MERN Stack Applicaton**<br><br>
+🔭 I’m currently working on **MERN Stack Application**<br><br>
 🌱 I’m currently learning **Mongo DB, ExpressJs**<br><br>
 💬 Ask me about **Javascript & ReactJs**<br><br>
 👨‍💻 All of my projects are available at **https://github.com/darshangaikwad4114**<br><br>
