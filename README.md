@@ -25,9 +25,8 @@
 
 🔭 I’m currently working on **MERN Stack Applicaton**<br><br>
 🌱 I’m currently learning **Mongo DB, ExpressJs**<br><br>
-👯 I’m looking to collaborate on **Full Stack Web Development**<br><br>
-👨‍💻 All of my projects are available at **https://github.com/darshangaikwad4114**<br><br>
 💬 Ask me about **Javascript & ReactJs**<br><br>
+👨‍💻 All of my projects are available at **https://github.com/darshangaikwad4114**<br><br>
 📫 How to reach me **darshangaikwad4114@gmail.com**<br><br>
 ⚡ Fun fact **Chai tastes way better than Coffee**
 
@@ -43,7 +42,7 @@
 <br/>
 <div align="center">
     <!-- -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=16" /><br>
 
 </div>
 
