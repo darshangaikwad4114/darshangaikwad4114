@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
 
-<!-- <h3 align="center">A Passionate About Full Stack Web Developement</h3> -->
+<h4 align="center">A Passionate About Full Stack Web Developement⚡</h4>
 <!-- Portfolio -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
@@ -41,12 +41,13 @@
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Darshan4811421)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DCoder_Boy)
 [![BIO.LINK](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/darshan_gaikwad)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/darshan4114)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
 <div align="center">
-    <!-- -->
+    <!-- Language -->
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" />
 </div>
 
@@ -59,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
 </a>
 
-</div> 
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
