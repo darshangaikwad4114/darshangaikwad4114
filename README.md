@@ -54,10 +54,7 @@
 <a href="https://auth.geeksforgeeks.org/user/darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshangaikwad4114" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@darshangaikwad4114" height="30" width="40" /></a> -->  
 
-<h2 align="center">⚡This week I spent my time on⚡</h2>
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=darshangaikwad4114&hide_title=true&hide_border=true&langs_count=4&bg_color=00000000&text_color=777)
+<!-- <h2 align="center">⚡This week I spent my time on⚡</h2> -->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
