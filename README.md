@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
 
-<h4 align="center">A Passionate About Full Stack Web Developement⚡</h4>
+<!-- <h4 align="center">A Passionate About Full Stack Web Developement⚡</h4> -->
 <!-- Portfolio -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
@@ -26,7 +26,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on **MERN Stack Application**<br><br>
-🌱 I’m currently learning **Mongo DB, ExpressJs,NextJs**<br><br>
+🌱 I’m currently learning **Mongo DB,ExpressJs,NextJs**<br><br>
 💬 Ask me about **Javascript & ReactJs**<br><br>
 👨‍💻 All of my projects are available at **https://github.com/darshangaikwad4114**<br><br>
 📫 How to reach me **darshangaikwad4114@gmail.com**<br><br>
@@ -34,20 +34,25 @@
 
 <!-- Social profile links -->
 
-## 🌐 Socials:
+## 🌐 Socials 🌐
+<a href="https://dev.to/darshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshu" height="30" width="40" /></a>
+<a href="https://twitter.com/darshan4811421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan4811421" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-gaikwad" height="30" width="40" /></a>
+<a href="https://instagram.com/_darshan.4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_4114_)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_4114_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-gaikwad)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Darshan4811421)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DCoder_Boy)
-[![BIO.LINK](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/darshan_gaikwad)
+[![BIO.LINK](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/darshan_gaikwad) -->
 
-<h2 align="center">Competative Programming 🚀</h2>
+<h2 align="center">🚀 Competative Programming 🚀</h2>
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/darshan4114)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/Darshan_gaikwad/)
-[![CodeCheaf](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/darshu_4114)
-
+<a href="https://www.codechef.com/users/darshu_4114" target="blank"><img align="center" style="background:white;border-radius:3px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshu_4114" height="32" width="40" /></a>
+<a href="https://www.hackerrank.com/darshan4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshan4114" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/darshan_gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan_gaikwad" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshangaikwad4114" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@darshangaikwad4114" height="30" width="40" /></a> -->  
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -57,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats 📊
 
 <div align="center">
 <a href="https://github.com/darshangaikwad4114/">
@@ -75,8 +80,8 @@
   <br/><br/>
 </div>
 
-## 💰 You can help me by Donating
+<!-- ## 💰 You can help me by Donating 💰
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18) -->
 
 </div>
