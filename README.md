@@ -1,13 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&text=%20Darshan%20Gaikwad%20" alt="Darshan Gaikwad" width="1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Darshan%20Gaikwad%20" alt="Darshan Gaikwad" width="1500" />
 <!-- Profile banner -->
 
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
-
-<!-- <h4 align="center">A Passionate About Full Stack Web Developement⚡</h4> -->
-<!-- Portfolio -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
@@ -40,21 +37,12 @@
 <a href="https://linkedin.com/in/darshan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/_darshan.4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_4114_)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-gaikwad)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Darshan4811421)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DCoder_Boy)
-[![BIO.LINK](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/darshan_gaikwad) -->
-
 <h2 align="center">🚀 Competative Programming 🚀</h2>
 
 <a href="https://www.codechef.com/users/darshu_4114" target="blank"><img align="center" style="background:white;border-radius:3px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshu_4114" height="32" width="40" /></a>
 <a href="https://www.hackerrank.com/darshan4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshan4114" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darshan_gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan_gaikwad" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshangaikwad4114" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerearth.com/@darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@darshangaikwad4114" height="30" width="40" /></a> -->  
-
-<!-- <h2 align="center">⚡This week I spent my time on⚡</h2> -->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -81,9 +69,5 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
-
-<!-- ## 💰 You can help me by Donating 💰
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18) -->
 
 </div>
