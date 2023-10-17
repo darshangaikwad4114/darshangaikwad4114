@@ -5,12 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
 </h1>
 
+<!-- My Portfolio -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
+
 <!-- Profile banner -->
 <!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/) -->
-
-<!-- My Portfolio -->
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- Visitors Count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat"
@@ -18,14 +17,16 @@ alt="darshangaikwad4114" width="100" />
 </p>
 
 <!-- About Me -->
+<div align="left">
 <h2>💫 About Me:</h2>
 
-🔭 I’m currently working on `MERN Stack Application`<br><br>
+🔭 I’m currently working on `Portfolio Project`<br><br>
 🌱 I’m currently learning `Mongo DB,ExpressJs,NextJs`<br><br>
 💬 Ask me about `Javascript & ReactJs`<br><br>
 👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
 ⚡ Fun fact `Chai tastes way better than Coffee`<br>
+</div>
 
 <!-- Social profile links -->
 <div align="center">
