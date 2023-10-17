@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Hey%20%I'm %20Darshan%20" alt="Darshan Gaikwad" width="1500" />
 
-<!-- <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1> -->
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
 </h1>
@@ -13,7 +11,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- Visitors Count -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat"
 
 <!-- gif image -->
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif"> -->
