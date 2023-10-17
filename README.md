@@ -31,10 +31,10 @@ alt="darshangaikwad4114" width="100" />
 <!-- Social profile links -->
 <div align="center">
 <h2>🌐 Socials 🌐</h2>
-<a href="https://dev.to/darshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshu" height="30" width="40" /></a>
+<a href="https://dev.to/darshangaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshan" height="30" width="40" /></a>
 <a href="https://twitter.com/darshan4811421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan4811421" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-gaikwad" height="30" width="40" /></a>
-<a href="https://instagram.com/_darshan.4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
+<a href="https://www.instagram.com/darshan_4114_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
 </div>
 
 <!-- Competative Programming -->
