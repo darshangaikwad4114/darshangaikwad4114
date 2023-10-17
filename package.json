@@ -1,0 +1,107 @@
+{
+  "name": "darshangaikwad4114",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and EJS.",
+  "main": "index.js",
+  "scripts": {
+    "start:local": "NODE_ENV=local node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshangaikwad4114/darshangaikwad4114.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Darshan Gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshangaikwad4114/darshangaikwad4114/issues"
+  },
+  "homepage": "https://github.com/darshangaikwad4114/darshangaikwad4114#readme",
+  "dependencies": {
+    "algoliasearch": "4.8.3",
+    "dotenv": "^8.2.0",
+    "ejs": "3.1.5",
+    "lodash": "^4.17.20",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
+
+const algoliasearch = require("algoliasearch");
+const { promises: fs } = require("fs");
+const toml = require("toml");
+const ejs = require("ejs");
+
+const fetchRecentPosts = async (index) => {
+  const { hits } = await index.search("", {
+    getRankingInfo: true,
+    analytics: false,
+    enableABTest: false,
+    hitsPerPage: 100,
+    attributesToRetrieve: "*",
+    attributesToSnippet: "*:20",
+    snippetEllipsisText: "…",
+    responseFields: "*",
+    page: 0,
+    maxValuesPerFacet: 100,
+    facets: ["*", "no_variables", "tags"],
+    facetFilters: [["tags:blog"]],
+  });
+
+  const recentPosts = hits
+    .filter((hit) => hit.type === "lvl1")
+    .map((hit) => ({
+      url: hit.url_without_anchor,
+      title: hit.hierarchy.lvl1,
+    }))
+    .sort((hit) => hit.url)
+    .reverse();
+
+  return recentPosts.slice(-5).reverse();
+};
+
+const readProperties = async (filePath) => {
+  const properties = await fs.readFile(filePath, { encoding: "utf-8" });
+  return toml.parse(properties);
+};
+
+const main = async () => {
+  const client = algoliasearch(
+    process.env.ALGOLIA_APPLICATION_ID,
+    process.env.ALGOLIA_API_KEY
+  );
+
+  const index = client.initIndex(process.env.ALGOLIA_INDEX);
+
+  try {
+    const recentPosts = await fetchRecentPosts(index);
+
+    const propertiesObj = await readProperties("./config.toml");
+
+    const renderedTemplate = await ejs.renderFile("index.ejs", {
+      ...propertiesObj,
+      posts: recentPosts,
+      lastRunOn: new Date().toISOString(),
+    });
+
+    await fs.writeFile("./README.md", renderedTemplate, { encoding: "utf-8" });
+  } catch (error) {
+    console.error("An error occurred:", error);
+  }
+};
+
+main();

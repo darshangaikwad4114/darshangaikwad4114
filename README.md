@@ -61,7 +61,7 @@
 
 <div align="center">
     <!-- Language -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,markdown,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,jest,git,github,figma,vscode,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,git,github,figma,vscode,&perline=10" />
 </div>
 
 # 📊 GitHub Stats 📊
