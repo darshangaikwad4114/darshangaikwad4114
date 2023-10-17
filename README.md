@@ -14,7 +14,8 @@
 
 <!-- Visitors Count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat"
-    alt="darshangaikwad4114" width="100" /> </p>
+alt="darshangaikwad4114" width="100" /> 
+</p>
 
 <!-- About Me -->
 <h2>💫 About Me:</h2>
@@ -58,6 +59,13 @@
 </a>
 </div>
 
+✍🏻 **My Blog Posts**
+
+<table>
+  <tr><th></th><th>Title</th><th>Link</th><th>Keywords</th></tr>
+ <!-- BLOG-POST-LIST:START --><tr><td>1</td><td>🏄 Optimize EC2 cost by scheduling instances using EventBridge scheduler and Lambda</td><td>https://dev.to/ashiqursuperfly/optimize-ec2-cost-by-scheduling-instances-using-eventbridge-scheduler-and-lambda-50fo</td><td>aws, lambda, devops</td></tr><tr><td>2</td><td>🏄 Automate Jenkins Job builds with Python</td><td>https://dev.to/ashiqursuperfly/automate-jenkins-job-builds-with-python-5ee9</td><td>jenkins, python, automation, ansible</td></tr><tr><td>3</td><td>🧿 EKS multiple Kubernetes version upgrade using Terraform</td><td>https://dev.to/ashiqursuperfly/eks-multiple-kubernetes-version-jump-using-terraform-lp7</td><td>aws, terraform, kubernetes</td></tr><tr><td>4</td><td>🌀 Python script to find unused EC2 subnets</td><td>https://dev.to/ashiqursuperfly/python-script-to-find-unused-ec2-subnets-4l23</td><td>python, aws</td></tr><tr><td>5</td><td>🎨 This AWS CLI command can run instance refresh for auto scaling groups</td><td>https://dev.to/ashiqursuperfly/this-aws-cli-command-can-run-instance-refresh-for-auto-scaling-groups-21j7</td><td>aws, kubernetes</td></tr><tr><!-- BLOG-POST-LIST:END -->
+</table>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -66,3 +74,40 @@
 </div>
 
 </div>
+**I'm a Night 🦉**
+
+```text
+🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+🌆 Daytime                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 %
+🌃 Evening                430 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 %
+🌙 Night                  1117 commits        ██████████████░░░░░░░░░░░   55.49 %
+```
+
+📅 **I'm Most Productive on Tuesday**
+
+```text
+Monday                   290 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Tuesday                  394 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Wednesday                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Friday                   303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Saturday                 333 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Sunday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
+Python                   2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.43 %
+Assembly                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 %
+JavaScript               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 %
+Terraform                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+
+🔥 Editors:
+VS Code                  9 hrs 7 mins        █████████████████████████   100.00 %
+
+💻 Operating System:
+Linux                    9 hrs 7 mins        █████████████████████████   100.00 %
+```
