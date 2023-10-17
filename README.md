@@ -1,19 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Darshan%20Gaikwad%20" alt="Darshan Gaikwad" width="1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Hey%20%I'm %20Darshan%20" alt="Darshan Gaikwad" width="1500" />
+
+<!-- <h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1> -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
+</h1>
 <!-- Profile banner -->
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/)
-
-<h1 align="center">Hi 👋, I'm Darshan Gaikwad</h1>
+<!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/) -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- Visitors Count -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" alt="darshangaikwad4114" /> </p>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
-</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat" 
 
 <!-- gif image -->
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif"> -->
@@ -32,19 +32,20 @@
 <!-- Social profile links -->
 
 ## 🌐 Socials 🌐
+
 <a href="https://dev.to/darshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshu" height="30" width="40" /></a>
 <a href="https://twitter.com/darshan4811421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan4811421" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/_darshan.4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan.4114" height="30" width="40" /></a>
 
-<h2 align="center">🚀 Competative Programming 🚀</h2>
+<h2>🚀 Competative Programming 🚀</h2>
 
 <a href="https://www.codechef.com/users/darshu_4114" target="blank"><img align="center" style="background:white;border-radius:3px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshu_4114" height="32" width="40" /></a>
 <a href="https://www.hackerrank.com/darshan4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshan4114" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darshan_gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan_gaikwad" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshangaikwad4114" height="30" width="40" /></a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
 <div align="center">
