@@ -18,10 +18,10 @@ alt="darshangaikwad4114" width="100" />
 
 <!-- About Me -->
 <div align="left">
-<h2>💫 About Me:</h2>
+<h2>👋 About Me:</h2>
 
-🔭 I’m currently working on `Portfolio Project`<br><br>
-🌱 I’m currently learning `Mongo DB,ExpressJs,NextJs`<br><br>
+🔭 I’m currently working on a `Portfolio Project`<br><br>
+🌱 I’m currently learning `Mongo DB, ExpressJs, NextJs`<br><br>
 💬 Ask me about `Javascript & ReactJs`<br><br>
 👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
