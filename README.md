@@ -71,9 +71,3 @@ alt="darshangaikwad4114" width="100" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
-
-![Darshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=darshanhgaikwad&hide_border=true&theme=redical)
-
-<p align="center">
-   <img src="https://github.com/darshangaikwad4114/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
