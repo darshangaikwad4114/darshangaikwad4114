@@ -6,6 +6,7 @@
 </h1>
 
 <!-- My Portfolio -->
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
 <!-- Profile banner -->
@@ -26,6 +27,7 @@ alt="darshangaikwad4114" width="100" />
 👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
 ⚡ Fun fact `Chai tastes way better than Coffee`<br>
+
 </div>
 
 <!-- Social profile links -->
@@ -69,3 +71,9 @@ alt="darshangaikwad4114" width="100" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
+
+![Darshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=darshanhgaikwad&hide_border=true&theme=redical)
+
+<p align="center">
+   <img src="https://github.com/darshangaikwad4114/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
