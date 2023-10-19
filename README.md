@@ -2,20 +2,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&height=250&text=%20Hey%20%I'm%20Darshan%20" alt="Darshan Gaikwad" width="1500" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
 </h1>
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
+alt="darshangaikwad4114" width="180" /> 
+</p>
 
-<!-- My Portfolio -->
+<a href="https://www.github.com/darshangaikwad4114" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></a>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
+<!-- My Portfolio -->
+
 <!-- Profile banner -->
 <!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/) -->
-
-<!-- Visitors Count -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&label=Visitors&color=b640ff&style=flat"
-alt="darshangaikwad4114" width="100" /> 
-</p>
 
 <!-- About Me -->
 <div align="left">
