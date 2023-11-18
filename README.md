@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
 </h1>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
 alt="darshangaikwad4114" width="180" /> 
-</p>
+</div>
 
-<a href="https://www.github.com/darshangaikwad4114" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></a>
+<div href="https://www.github.com/darshangaikwad4114" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></div>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
 
