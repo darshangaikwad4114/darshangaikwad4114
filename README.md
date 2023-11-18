@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 
 👨‍🎓 I’m a `BCA Student`<br><br>
 🔭 I’m currently working on a `Portfolio Project`<br><br>
-🌱 I’m currently learning `Mongo DB, ExpressJs, NextJs`<br><br>
+🌱 I’m currently learning `ExpressJs, NextJs`<br><br>
 💬 Ask me about `Javascript & ReactJs`<br><br>
 👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
