@@ -2,10 +2,12 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&height=250&text=%20Hey%20%I'm%20Darshan%20" alt="Darshan Gaikwad" width="1500" /> -->
   
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan, Welcome to My GitHub!;I'm Front-End Web Developer🚀!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
+<!-- <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
+</h1> -->
  
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
 alt="darshangaikwad4114" width="180" /> 
