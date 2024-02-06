@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <h2>👋 About Me:</h2>
 
 👨‍🎓 I’m a `BCA Student`<br><br>
-🔭 I’m currently working on a `Portfolio Project`<br><br>
-🌱 I’m currently learning `ExpressJs, NextJs`<br><br>
+🔭 I’m currently working on a `MERN Stack Project`<br><br>
+🌱 I’m currently learning `NextJs`<br><br>
 💬 Ask me about `Javascript & ReactJs`<br><br>
 👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
