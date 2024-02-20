@@ -1,6 +1,5 @@
 <div align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&height=250&text=%20Hey%20%I'm%20Darshan%20" alt="Darshan Gaikwad" width="1500" /> -->
-  
+
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
 <h1 align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Front-End Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
@@ -78,3 +77,6 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
+
+<img src="
+https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" />
