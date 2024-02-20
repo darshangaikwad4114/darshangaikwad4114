@@ -78,5 +78,5 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <br/><br/>
 </div>
 
-<img src="
-https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" />
+<!-- <img src="
+https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" /> -->
