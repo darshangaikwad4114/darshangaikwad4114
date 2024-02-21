@@ -1,6 +1,9 @@
 <div align="center">
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Front-End Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
