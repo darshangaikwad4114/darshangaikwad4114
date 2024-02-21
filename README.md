@@ -85,7 +85,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 ## 📈 Graph
 
 <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/darshangaikwad4114/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 [![Darshan GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=darshangaikwad4114&theme=github-compact)](https://github.com/darshangaikwad4114/github-readme-activity-graph)
