@@ -78,7 +78,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" /> -->
   <br/><br/>
 </div>
 
