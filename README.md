@@ -74,7 +74,8 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 </a>
 </div>
 <h2>📊 LeetCode Stats 📊</h2>
-<img width="460" src="https://leetcode.card.workers.dev/Darshan_gaikwad?theme=dark&font=source_code_pro"><img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan_gaikwad&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/darshangaikwad4114?theme=dark&font=baloo&extension=activity)
 
 <!-- My Contributions -->
 <div align="center">
