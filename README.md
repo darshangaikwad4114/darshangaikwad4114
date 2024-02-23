@@ -73,6 +73,8 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
 </a>
 </div>
+<h2>📊 LeetCode Stats 📊</h2>
+<img width="460" src="https://leetcode.card.workers.dev/Darshan_gaikwad?theme=dark&font=source_code_pro"><img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan_gaikwad&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br/>
 
 <!-- My Contributions -->
 <div align="center">
@@ -81,8 +83,6 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
-
-![snake gif](https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <img src="
 https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" /> -->
