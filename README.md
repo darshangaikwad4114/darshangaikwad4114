@@ -65,25 +65,25 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 </div>
 
 <!-- GitHub Stats -->
-<div align="center">
 <h2>📊 GitHub Stats 📊</h2>
-<a href="https://github.com/darshangaikwad4114/">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=darshangaikwad4114&&theme=github-dark-blue&background=130F40&text=D3D3D3&ring=7A7ADB&sideNums=FFFFFF" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darshangaikwad4114&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 <h2>📊 LeetCode Stats 📊</h2>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/darshangaikwad4114?theme=dark&font=baloo&extension=activity)
 
+<h2>🐍 My Contributions 🐍</h2>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+
 <!-- My Contributions -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<!-- <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
   <br/><br/>
-</div>
+</div> -->
 
 <!-- <img src="
 https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" /> -->
