@@ -1,0 +1,47 @@
+name: Update WakaTime Stats Daily
+
+on:
+  schedule:
+    # - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '*/1 * * * *'  # Runs every minute for testing
+
+    jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update WakaTime Stats
+        id: update-stats
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const https = require('https');
+
+            const options = {
+              hostname: 'api.wakatime.com',
+              path: '/api/v1/users/current/all_time_since_today',
+              method: 'GET',
+              headers: {
+                'Authorization': 'WAKATIME_API_KEY', // Replace Your_Access_Token with your actual access token
+                'Accept': 'application/json',
+              }
+            };
+
+            const req = https.request(options, (res) => {
+              console.log(`Status Code: ${res.statusCode}`);
+              let data = '';
+
+              res.on('data', (chunk) => {
+                data += chunk;
+              });
+
+              res.on('end', () => {
+                console.log(JSON.parse(data));
+              });
+            });
+
+            req.on('error', (error) => {
+              console.error(error);
+            });
+
+            req.end();

@@ -1,17 +1,13 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Front-End Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
-</h1> -->
- 
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
 alt="darshangaikwad4114" width="180" /> 
 </div>
@@ -30,11 +26,11 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <div align="left">
 <h2>👋 About Me:</h2>
 
-👨‍🎓 I’m a `BCA Student`<br><br>
-🔭 I’m currently working on a `MERN Stack Project`<br><br>
-🌱 I’m currently learning `NextJs`<br><br>
-💬 Ask me about `Javascript & ReactJs`<br><br>
-👨‍💻 All of my projects are available at `https://github.com/darshangaikwad4114`<br><br>
+👨‍🎓 I’m a `BCA Graduate Student 🎓`<br><br>
+🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br><br>
+🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br><br>
+💬 Ask me about `Web Development🕸️`<br><br>
+👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br><br>
 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
 ⚡ Fun fact `Chai tastes way better than Coffee`<br>
 
@@ -71,19 +67,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-<h2>📊 LeetCode Stats 📊</h2>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/darshangaikwad4114?theme=dark&font=baloo&extension=activity)
+<!-- <h2>📊 LeetCode Stats 📊</h2>
 
-<h2>🐍 My Contributions 🐍</h2>
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
-
-<!-- My Contributions -->
-<!-- <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darshangaikwad4114/darshangaikwad4114/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
-</div> -->
-
-<!-- <img src="
-https://capsule-render.vercel.app/api?type=waving&height=200&color=793EF6&text=Thanks%20for%20Visiting%20❤️&fontAlign=50&animation=fadeIn&reversal=false&section=footer&textBg=false&descAlign=50&descAlignY=50&fontSize=50" alt="Darshan Gaikwad" width="1500" /> -->
+![LeetCode Stats](https://leetcode.card.workers.dev/darshangaikwad4114?theme=dark&font=baloo&extension=activity) -->
