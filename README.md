@@ -27,11 +27,17 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <h2>👋 About Me:</h2>
 
 ### 👨‍🎓 I’m a `BCA Graduate Student 🎓`<br><br>
+
 ### 🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br><br>
+
 ### 🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br><br>
+
 ### 💬 Ask me about `Web Development🕸️`<br><br>
+
 ### 👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br><br>
+
 ### 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
+
 ### ⚡ Fun fact `Chai tastes way better than Coffee`<br>
 
 </div>
@@ -67,6 +73,12 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
   <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- <h2>📊 LeetCode Stats 📊</h2>
 
