@@ -26,13 +26,13 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <div align="left">
 <h2>👋 About Me:</h2>
 
-👨‍🎓 I’m a `BCA Graduate Student 🎓`<br><br>
-🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br><br>
-🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br><br>
-💬 Ask me about `Web Development🕸️`<br><br>
-👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br><br>
-📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
-⚡ Fun fact `Chai tastes way better than Coffee`<br>
+### 👨‍🎓 I’m a `BCA Graduate Student 🎓`<br><br>
+### 🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br><br>
+### 🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br><br>
+### 💬 Ask me about `Web Development🕸️`<br><br>
+### 👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br><br>
+### 📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
+### ⚡ Fun fact `Chai tastes way better than Coffee`<br>
 
 </div>
 
