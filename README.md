@@ -8,12 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Front-End Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
 
+![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114?label=Followers&style=social)
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=darshangaikwad4114&style=for-the-badge&color=f53b57&labelColor=d752ff"
 alt="darshangaikwad4114" width="180" /> 
 </div>
-
-<div href="https://www.github.com/darshangaikwad4114" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></div>
+<!-- <div href="https://www.github.com/darshangaikwad4114" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></div> -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshan-personal-portfolio.netlify.app/) <br>
 
