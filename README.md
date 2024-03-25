@@ -53,6 +53,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 </div>
 
 <!-- Competative Programming -->
+<!--
 <div align="center">
 <h2 align="center">🚀 Competative Programming 🚀</h2>
 <a href="https://www.codechef.com/users/darshu_4114" target="blank"><img align="center" style="background:white;border-radius:3px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshu_4114" height="32" width="40" /></a>
@@ -60,6 +61,7 @@ src="https://img.shields.io/github/followers/darshangaikwad4114?logo=github&styl
 <a href="https://www.leetcode.com/darshan_gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan_gaikwad" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darshangaikwad4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshangaikwad4114" height="30" width="40" /></a>
 </div>
+-->
 
 <!-- Languages -->
 <div align="center">
