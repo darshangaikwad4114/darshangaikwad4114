@@ -6,19 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Full Stack Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
 
-[![](https://visitcount.itsvg.in/api?id=darshangaikwad4114&icon=1&color=12)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114?label=Followers&style=social)
 
 <!-- About Me -->
 <div align="left">
 <h2>👋 About Me:</h2>
 
-👨‍🎓 I’m a `BCA Graduate Student 🎓`<br><br>
-🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br><br>
-🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br><br>
-💬 Ask me about `Web Development🕸️`<br><br>
-👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br><br>
-📫 How to reach me `darshangaikwad4114@gmail.com`<br><br>
+👨‍🎓 I’m a `BCA Graduate Student 🎓`<br>
+🔭 I’m currently working on a `Full Stack Web Projects 💪🏻`<br>
+🌱 I’m currently learning `NextJs & Advance Web Technologies 🧑🏻‍💻`<br>
+💬 Ask me about `Web Development🕸️`<br>
+👨‍💻 Visit my website `https://darshan-personal-portfolio.netlify.app/`<br>
+📫 How to reach me `darshangaikwad4114@gmail.com`<br>
 ⚡ Fun fact `Chai tastes way better than Coffee`<br>
 
 </div>
