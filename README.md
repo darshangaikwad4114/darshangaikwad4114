@@ -12,7 +12,6 @@ Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,git,github,figma,vscode,&perline=10" />
 </div>
 
-<!-- <h2>📊 GitHub Stats 📊</h2> -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darshangaikwad4114&locale=en&mode=Daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
