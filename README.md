@@ -18,6 +18,4 @@ Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate
   <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
 </div>
 
-<!-- <h2>📊 LeetCode Stats 📊</h2>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/darshangaikwad4114?theme=dark&font=baloo&extension=activity) -->
+![LeetCode Stats](https://leetcode.card.workers.dev/Darshan_gaikwad?theme=nord&font=source_code_pro&extension=activity)
