@@ -5,17 +5,19 @@
 <a href="https://github.com/darshangaikwad4114?tab=repositories"><img src="https://img.shields.io/github/stars/darshangaikwad4114?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=darshan-gaikwad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/darshan-gaikwad/) [![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114.svg?label=Follow%20@darshangaikwad4114&style=social)](https://github.com/darshangaikwad4114/)
 
+<div>
 Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate about JavaScript and open-source. With a knack for building dynamic and responsive web applications, I balance code with badminton 🏸 and enjoy exploring the latest tech trends.
-
+</div>
 <div align="center">
 <h2>⚒️Languages-Frameworks-Databases⚒️</h2>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,git,github,figma,vscode,&perline=10" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=darshangaikwad4114&locale=en&mode=Daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshangaikwad4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=darshangaikwad4114&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=darshangaikwad4114&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangaikwad4114&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Darshan_gaikwad?theme=nord&font=source_code_pro&extension=activity) -->
+<br>
+<!-- <p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Darshan_gaikwad?theme=dark&font=Nunito&ext=heatmap" />  
+</p> -->
