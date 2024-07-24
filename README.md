@@ -5,12 +5,13 @@
 <a href="https://github.com/darshangaikwad4114?tab=repositories"><img src="https://img.shields.io/github/stars/darshangaikwad4114?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=darshan-gaikwad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/darshan-gaikwad/) [![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114.svg?label=Follow%20@darshangaikwad4114&style=social)](https://github.com/darshangaikwad4114/)
 
-<div>
+<h4>
 Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate about JavaScript and open-source. With a knack for building dynamic and responsive web applications, I balance code with badminton 🏸 and enjoy exploring the latest tech trends.
-</div>
+</h4>
+
 <div align="center">
-<h2>⚒️Languages-Frameworks-Databases⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,babel,sass,nodejs,react,redux,next,express,mongo,mysql,vite,webpack,firebase,netlify,aws,postman,githubactions,git,github,figma,vscode,&perline=10" />
+<h1>Skills</h1>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,sass,nodejs,react,redux,next,express,mongo,mysql,vite,firebase,netlify,aws,postman,git,vscode,&perline=8" />
 </div>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=darshangaikwad4114&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
