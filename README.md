@@ -20,8 +20,6 @@ Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate
 </div>
 <br>
 
- ![Snake animation](https://github.com/darshangaikwad4114put/github-contribution-grid-snake.svg)
-
 <!-- <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Darshan_gaikwad?theme=dark&font=Nunito&ext=heatmap" />  
 </p> -->
