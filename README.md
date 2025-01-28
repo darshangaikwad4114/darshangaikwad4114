@@ -11,7 +11,7 @@ Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate
 
 <div align="center">
 <h1>Skills</h1>
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,typescript,bootstrap,tailwind,sass,nodejs,react,redux,next,express,mongo,mysql,vite,firebase,netlify,aws,postman,git,vscode,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,bootstrap,tailwind,sass,nodejs,react,next,express,mongo,mysql,vite,firebase,aws,postman,git,vscode,&perline=7" />
 </div>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=darshangaikwad4114&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
