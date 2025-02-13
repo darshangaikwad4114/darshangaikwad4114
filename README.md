@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=darshan-gaikwad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/darshan-gaikwad/) [![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114.svg?label=Follow%20@darshangaikwad4114&style=social)](https://github.com/darshangaikwad4114/)
 
 <h4>
-Glad to see you here! I'm Darshan Gaikwad, a full-stack web developer passionate about JavaScript and open-source. With a knack for building dynamic and responsive web applications, I balance code with badminton 🏸 and enjoy exploring the latest tech trends.
+I'm Darshan Gaikwad, a full-stack web developer passionate about JavaScript and open-source. With a knack for building dynamic and responsive web applications, I balance code with badminton 🏸 and enjoy exploring the latest tech trends.
 </h4>
 
 <div align="center">
