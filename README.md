@@ -4,7 +4,7 @@
 <a href="https://visitorbadge.io/status?path=darshangaikwad4114%2Fdarshangaikwad4114"><img src="https://api.visitorbadge.io/api/visitors?path=darshangaikwad4114%2Fdarshangaikwad4114&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/darshangaikwad4114?tab=repositories"><img src="https://img.shields.io/github/stars/darshangaikwad4114?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=darshan-gaikwad&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/darshan-gaikwad/) [![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114.svg?label=Follow%20@darshangaikwad4114&style=social)](https://github.com/darshangaikwad4114/)
-
+ 
 <h4>
 I'm Darshan Gaikwad, a passionate full-stack web developer specializing in JavaScript and open-source technologies. I thrive on building dynamic and responsive web applications that enhance user experiences. When I'm not coding, you can find me playing badminton 🏸 or exploring the latest tech trends and innovations.
 </h4>
