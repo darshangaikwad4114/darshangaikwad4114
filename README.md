@@ -61,6 +61,16 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
   </a>
 </div>
 
+<!-- GitHub Snake Animation -->
+## 📊 GitHub Contribution
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -73,16 +83,9 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darshan4114&theme=react&layout=compact" alt="Wakatime Stats"/>
 </div>
 
+<!--
 ## 📈 LeetCode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/Darshan_gaikwad?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
-<!-- GitHub Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+-->
