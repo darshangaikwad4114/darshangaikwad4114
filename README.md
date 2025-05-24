@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm Darshan Gaikwad!
   
-  ### Full-Stack Web Developer
+  ### Full-Stack Developer
   [![wakatime](https://wakatime.com/badge/user/018bc9e4-4b72-4347-968d-38f6246d1c7c.svg)](https://wakatime.com/@018bc9e4-4b72-4347-968d-38f6246d1c7c)
   <a href="https://visitorbadge.io/status?path=darshangaikwad4114%2Fdarshangaikwad4114"><img src="https://api.visitorbadge.io/api/visitors?path=darshangaikwad4114%2Fdarshangaikwad4114&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
   <a href="https://github.com/darshangaikwad4114?tab=repositories"><img src="https://img.shields.io/github/stars/darshangaikwad4114?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
