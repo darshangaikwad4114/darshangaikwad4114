@@ -14,12 +14,6 @@
 
 I'm a passionate full-stack web developer specializing in JavaScript and open-source technologies. I thrive on building dynamic and responsive web applications that enhance user experiences. My problem-solving approach and attention to detail help me create clean, efficient, and maintainable code.
 
-- 🔭 I'm currently working on improving my full-stack development skills
-- 🌱 I'm learning advanced React patterns and cloud technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Node.js, or web development in general
-- ⚡ Fun fact: When I'm not coding, you can find me playing badminton 🏸 or exploring the latest technology trends
-
 ## 💻 Skills
 
 <details open>
@@ -46,7 +40,7 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 </p>
 </details>
 
-## 📝 Latest Projects
+<!--## 📝 Latest Projects
 
 <div align="center">
   <a href="https://github.com/darshangaikwad4114/Darshan-Portfolio">
@@ -58,12 +52,19 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
   <a href="https://github.com/darshangaikwad4114/ecommerce-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=ecommerce-app&theme=react" />
   </a>
-</div>
+</div> -->
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshangaikwad4114&theme=react-dark" width="100%"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshangaikwad4114&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshangaikwad4114&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshangaikwad4114&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshangaikwad4114&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshangaikwad4114&theme=github_dark)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshangaikwad4114&theme=react-dark" width="100%"/>
 </div>
 
 <!-- GitHub Snake Animation -->
@@ -80,7 +81,7 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darshan4114&theme=react&layout=compact" alt="Wakatime Stats"/>
-</div> -->
+</div> 
 
 <!--
 ## 📈 LeetCode Stats
