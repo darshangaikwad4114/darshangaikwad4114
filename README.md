@@ -10,6 +10,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/darshangaikwad4114.svg?label=Follow%20@darshangaikwad4114&style=social)](https://github.com/darshangaikwad4114/)
 </div>
 
+<div style="font-family: 'Space Grotesk', sans-serif;">
+
 ## 🚀 About Me
 
 I'm a passionate full-stack web developer specializing in JavaScript and open-source technologies. I thrive on building dynamic and responsive web applications that enhance user experiences. My problem-solving approach and attention to detail help me create clean, efficient, and maintainable code.
@@ -28,7 +30,7 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 <summary><b>Backend</b></summary>
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongo,mysql,firebase&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongo,mysql,firebase,vercel&perline=4" />
 </p>
 </details>
 
@@ -36,7 +38,7 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 <summary><b>Tools & Technologies</b></summary>
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,docker,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,docker,linux&perline=4" />
 </p>
 </details>
 
@@ -44,13 +46,13 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 
 <div align="center">
   <a href="https://github.com/darshangaikwad4114/Darshan-Portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=Darshan-Portfolio&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=Darshan-Portfolio&theme=react" />
   </a>
   <a href="https://github.com/darshangaikwad4114/Cryptocurrency-Price-Tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=Cryptocurrency-Price-Tracker&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=Cryptocurrency-Price-Tracker&theme=react" />
   </a>
   <a href="https://github.com/darshangaikwad4114/ecommerce-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=ecommerce-app&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshangaikwad4114&repo=ecommerce-app&theme=react" />
   </a>
 </div> -->
 
@@ -67,13 +69,12 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshangaikwad4114&theme=react-dark" width="100%"/>
 </div>
 
-<!-- GitHub Snake Animation -->
 ## 📊 GitHub Contribution
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -89,3 +90,5 @@ I'm a passionate full-stack web developer specializing in JavaScript and open-so
   <img align="center" src="https://leetcard.jacoblin.cool/Darshan_gaikwad?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 -->
+
+</div>
